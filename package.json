@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "application to generate a portfolio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeaghanCampbell/portfolio-generator.git"
+  },
+  "author": "Meaghan Campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeaghanCampbell/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/MeaghanCampbell/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
